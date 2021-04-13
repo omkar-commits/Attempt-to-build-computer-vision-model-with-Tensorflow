@@ -1,4 +1,4 @@
-# Attempt-to-build-computer-vision-model-with-Tensorflow
+# To Build-computer-vision-model-with-Tensorflow
 Computer vision model, Tensorflow, Keras, CNN
 
 This Model is build using Steps by Google Codelab for building Computer Vision Model using Tensorflow
